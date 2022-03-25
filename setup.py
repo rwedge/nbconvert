@@ -213,7 +213,7 @@ setup_args = dict(
 
 setup_args['install_requires'] = [
     'mistune>=0.8.1,<2',
-    'jinja2 @ git+https://github.com/pallets/jinja.git@a2920752fd111c2d52c88eb57487667b3cf0ea7b',
+    'jinja2 @ git+https://github.com/pallets/jinja.git@e8da6267f8ab3c586cc88fca7c38cd9d116ba00e',
     'pygments>=2.4.1',
     'jupyterlab_pygments',
     'traitlets>=5.0',
